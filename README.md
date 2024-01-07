@@ -1,6 +1,4 @@
 # cse210-projects
-This space is dedicated to managing and documenting the various tasks and projects assigned throughout the programming with classes BYU course.
-
 This repository contains the starter code for many different projects. They are arranged as follows:
 
 * `sandbox` - An empty project that you can use to play around with any concepts you like.
