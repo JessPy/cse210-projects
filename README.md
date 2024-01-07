@@ -1,5 +1,5 @@
-# cse210-ww-student-template
-This is the starter code for students in the worldwide content version of CSE 210.
+# cse210-projects
+This space is dedicated to managing and documenting the various tasks and projects assigned throughout the programming with classes BYU course.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
