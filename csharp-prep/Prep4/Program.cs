@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 class Program
 {
@@ -26,7 +27,29 @@ class Program
             sum += element;
         }
         
+        Console.WriteLine();
         Console.WriteLine($"The sum is: {sum}");
-        Console.WriteLine($"The avarage is: {sum/num.Count}");
+        Console.WriteLine($"The avarage is: {sum/(num.Count)}");
+        
+        num.Sort();
+        int max = num[0];
+        foreach (int number in num)
+        {
+            if (number > max)
+            {
+                max = number;
+            }
+        }
+        Console.WriteLine($"The max is: {max}");
+
+        int minPositive = num.Where(x=> x > 0).Min();
+        Console.WriteLine($"The smallest positive number is: {minPositive}");
+
+
+        Console.WriteLine("The sorted list is: ");
+        foreach (int number in num)
+        {
+            Console.WriteLine(number);
+        }
     }
 }
