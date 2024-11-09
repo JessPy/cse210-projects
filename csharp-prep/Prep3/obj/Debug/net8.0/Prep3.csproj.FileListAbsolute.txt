@@ -1,0 +1,15 @@
+/home/jessica/Documentos/cursos/byu/cse210-projects/csharp-prep/Prep3/bin/Debug/net8.0/Prep3
+/home/jessica/Documentos/cursos/byu/cse210-projects/csharp-prep/Prep3/bin/Debug/net8.0/Prep3.deps.json
+/home/jessica/Documentos/cursos/byu/cse210-projects/csharp-prep/Prep3/bin/Debug/net8.0/Prep3.runtimeconfig.json
+/home/jessica/Documentos/cursos/byu/cse210-projects/csharp-prep/Prep3/bin/Debug/net8.0/Prep3.dll
+/home/jessica/Documentos/cursos/byu/cse210-projects/csharp-prep/Prep3/bin/Debug/net8.0/Prep3.pdb
+/home/jessica/Documentos/cursos/byu/cse210-projects/csharp-prep/Prep3/obj/Debug/net8.0/Prep3.GeneratedMSBuildEditorConfig.editorconfig
+/home/jessica/Documentos/cursos/byu/cse210-projects/csharp-prep/Prep3/obj/Debug/net8.0/Prep3.AssemblyInfoInputs.cache
+/home/jessica/Documentos/cursos/byu/cse210-projects/csharp-prep/Prep3/obj/Debug/net8.0/Prep3.AssemblyInfo.cs
+/home/jessica/Documentos/cursos/byu/cse210-projects/csharp-prep/Prep3/obj/Debug/net8.0/Prep3.csproj.CoreCompileInputs.cache
+/home/jessica/Documentos/cursos/byu/cse210-projects/csharp-prep/Prep3/obj/Debug/net8.0/Prep3.sourcelink.json
+/home/jessica/Documentos/cursos/byu/cse210-projects/csharp-prep/Prep3/obj/Debug/net8.0/Prep3.dll
+/home/jessica/Documentos/cursos/byu/cse210-projects/csharp-prep/Prep3/obj/Debug/net8.0/refint/Prep3.dll
+/home/jessica/Documentos/cursos/byu/cse210-projects/csharp-prep/Prep3/obj/Debug/net8.0/Prep3.pdb
+/home/jessica/Documentos/cursos/byu/cse210-projects/csharp-prep/Prep3/obj/Debug/net8.0/Prep3.genruntimeconfig.cache
+/home/jessica/Documentos/cursos/byu/cse210-projects/csharp-prep/Prep3/obj/Debug/net8.0/ref/Prep3.dll
