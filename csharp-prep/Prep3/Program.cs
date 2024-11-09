@@ -38,8 +38,10 @@ class Program
                 }
             } while (guessNumber != magicNumber);
             Console.WriteLine($"You needed {guessCounter} tentatives");
+
             Console.Write("Do you want to play again? ");
             response  = Console.ReadLine();
+            
         } while (response == "yes");
     }
 }
