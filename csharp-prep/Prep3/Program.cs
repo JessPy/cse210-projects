@@ -37,11 +37,11 @@ class Program
                     Console.Write("You guessed it! ");
                 }
             } while (guessNumber != magicNumber);
-            Console.WriteLine($"You needed {guessCounter} tentatives");
+            Console.WriteLine($"You needed {guessCounter} tentatives.");
 
             Console.Write("Do you want to play again? ");
             response  = Console.ReadLine();
-            
+
         } while (response == "yes");
     }
 }
