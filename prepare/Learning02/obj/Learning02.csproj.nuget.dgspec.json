@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/csharp-prep/Prep2/Prep2.csproj": {}
+    "/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning02/Learning02.csproj": {}
   },
   "projects": {
-    "/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/csharp-prep/Prep2/Prep2.csproj": {
+    "/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning02/Learning02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/csharp-prep/Prep2/Prep2.csproj",
-        "projectName": "Prep2",
-        "projectPath": "/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/csharp-prep/Prep2/Prep2.csproj",
+        "projectUniqueName": "/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning02/Learning02.csproj",
+        "projectName": "Learning02",
+        "projectPath": "/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning02/Learning02.csproj",
         "packagesPath": "/home/jessica/.nuget/packages/",
-        "outputPath": "/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/csharp-prep/Prep2/obj/",
+        "outputPath": "/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning02/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jessica/.nuget/NuGet/NuGet.Config"
