@@ -1,0 +1,15 @@
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning03/obj/Debug/net8.0/Learning03.GeneratedMSBuildEditorConfig.editorconfig
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning03/obj/Debug/net8.0/Learning03.AssemblyInfoInputs.cache
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning03/obj/Debug/net8.0/Learning03.AssemblyInfo.cs
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning03/obj/Debug/net8.0/Learning03.csproj.CoreCompileInputs.cache
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning03/obj/Debug/net8.0/Learning03.sourcelink.json
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning03/bin/Debug/net8.0/Learning03
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning03/bin/Debug/net8.0/Learning03.deps.json
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning03/bin/Debug/net8.0/Learning03.runtimeconfig.json
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning03/bin/Debug/net8.0/Learning03.dll
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning03/bin/Debug/net8.0/Learning03.pdb
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning03/obj/Debug/net8.0/Learning03.dll
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning03/obj/Debug/net8.0/refint/Learning03.dll
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning03/obj/Debug/net8.0/Learning03.pdb
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning03/obj/Debug/net8.0/Learning03.genruntimeconfig.cache
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning03/obj/Debug/net8.0/ref/Learning03.dll

@@ -1,0 +1,15 @@
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning05/bin/Debug/net8.0/Learning05
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning05/bin/Debug/net8.0/Learning05.deps.json
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning05/bin/Debug/net8.0/Learning05.runtimeconfig.json
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning05/bin/Debug/net8.0/Learning05.dll
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning05/bin/Debug/net8.0/Learning05.pdb
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning05/obj/Debug/net8.0/Learning05.GeneratedMSBuildEditorConfig.editorconfig
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning05/obj/Debug/net8.0/Learning05.AssemblyInfoInputs.cache
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning05/obj/Debug/net8.0/Learning05.AssemblyInfo.cs
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning05/obj/Debug/net8.0/Learning05.csproj.CoreCompileInputs.cache
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning05/obj/Debug/net8.0/Learning05.sourcelink.json
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning05/obj/Debug/net8.0/Learning05.dll
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning05/obj/Debug/net8.0/refint/Learning05.dll
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning05/obj/Debug/net8.0/Learning05.pdb
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning05/obj/Debug/net8.0/Learning05.genruntimeconfig.cache
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning05/obj/Debug/net8.0/ref/Learning05.dll
