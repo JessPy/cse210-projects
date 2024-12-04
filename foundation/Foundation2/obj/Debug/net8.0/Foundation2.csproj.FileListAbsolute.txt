@@ -1,0 +1,15 @@
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/foundation/Foundation2/bin/Debug/net8.0/Foundation2
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/foundation/Foundation2/bin/Debug/net8.0/Foundation2.deps.json
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/foundation/Foundation2/bin/Debug/net8.0/Foundation2.runtimeconfig.json
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/foundation/Foundation2/bin/Debug/net8.0/Foundation2.dll
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/foundation/Foundation2/bin/Debug/net8.0/Foundation2.pdb
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/foundation/Foundation2/obj/Debug/net8.0/Foundation2.GeneratedMSBuildEditorConfig.editorconfig
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/foundation/Foundation2/obj/Debug/net8.0/Foundation2.AssemblyInfoInputs.cache
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/foundation/Foundation2/obj/Debug/net8.0/Foundation2.AssemblyInfo.cs
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/foundation/Foundation2/obj/Debug/net8.0/Foundation2.csproj.CoreCompileInputs.cache
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/foundation/Foundation2/obj/Debug/net8.0/Foundation2.sourcelink.json
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/foundation/Foundation2/obj/Debug/net8.0/Foundation2.dll
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/foundation/Foundation2/obj/Debug/net8.0/refint/Foundation2.dll
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/foundation/Foundation2/obj/Debug/net8.0/Foundation2.pdb
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/foundation/Foundation2/obj/Debug/net8.0/Foundation2.genruntimeconfig.cache
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/foundation/Foundation2/obj/Debug/net8.0/ref/Foundation2.dll
