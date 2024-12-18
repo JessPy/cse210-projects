@@ -1,16 +1,15 @@
 using System.ComponentModel;
 
-class Activity
+public class Activity
 {
     protected string _name {get;set;}
     protected string _description {get;set;}
     protected int _duration {get;set;}
 
-    public Activity(string name, string description, int duration)
+    public Activity(string name, string description)
     {
         _name = name;
         _description = description;
-        _duration = duration;
     }
  
     public void ShowSpinner(int seconds)
