@@ -4,6 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Develop06 World!");
+        Activity atividade1 = new Activity("Ola", "teste", 10);
+        atividade1.DisplayStartingMessage();
+        atividade1.DisplayEndingMessage();
+
+    
     }
 }

@@ -1,0 +1,15 @@
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prove/Develop06/bin/Debug/net8.0/Develop06
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prove/Develop06/bin/Debug/net8.0/Develop06.deps.json
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prove/Develop06/bin/Debug/net8.0/Develop06.runtimeconfig.json
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prove/Develop06/bin/Debug/net8.0/Develop06.dll
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prove/Develop06/bin/Debug/net8.0/Develop06.pdb
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prove/Develop06/obj/Debug/net8.0/Develop06.GeneratedMSBuildEditorConfig.editorconfig
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prove/Develop06/obj/Debug/net8.0/Develop06.AssemblyInfoInputs.cache
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prove/Develop06/obj/Debug/net8.0/Develop06.AssemblyInfo.cs
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prove/Develop06/obj/Debug/net8.0/Develop06.csproj.CoreCompileInputs.cache
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prove/Develop06/obj/Debug/net8.0/Develop06.sourcelink.json
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prove/Develop06/obj/Debug/net8.0/Develop06.dll
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prove/Develop06/obj/Debug/net8.0/refint/Develop06.dll
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prove/Develop06/obj/Debug/net8.0/Develop06.pdb
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prove/Develop06/obj/Debug/net8.0/Develop06.genruntimeconfig.cache
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prove/Develop06/obj/Debug/net8.0/ref/Develop06.dll

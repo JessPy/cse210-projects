@@ -1,0 +1,15 @@
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning06/bin/Debug/net8.0/Learning06
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning06/bin/Debug/net8.0/Learning06.deps.json
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning06/bin/Debug/net8.0/Learning06.runtimeconfig.json
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning06/bin/Debug/net8.0/Learning06.dll
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning06/bin/Debug/net8.0/Learning06.pdb
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning06/obj/Debug/net8.0/Learning06.GeneratedMSBuildEditorConfig.editorconfig
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning06/obj/Debug/net8.0/Learning06.AssemblyInfoInputs.cache
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning06/obj/Debug/net8.0/Learning06.AssemblyInfo.cs
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning06/obj/Debug/net8.0/Learning06.csproj.CoreCompileInputs.cache
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning06/obj/Debug/net8.0/Learning06.sourcelink.json
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning06/obj/Debug/net8.0/Learning06.dll
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning06/obj/Debug/net8.0/refint/Learning06.dll
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning06/obj/Debug/net8.0/Learning06.pdb
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning06/obj/Debug/net8.0/Learning06.genruntimeconfig.cache
+/home/jessica/Documentos/cursos/byu/programming_w_classes/cse210-projects/prepare/Learning06/obj/Debug/net8.0/ref/Learning06.dll
