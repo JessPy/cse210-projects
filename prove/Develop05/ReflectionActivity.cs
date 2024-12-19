@@ -1,39 +1,75 @@
 using System;
 public class ReflectionActivity : Activity
 {
-    private List<string> _questions = new List<string>();
-    private List<string> _prompts = new List<string>();
+    private List<string> _questions = new List<string>()
+    {
+        "Why was this experience meaningful to you?",
+        "Have you ever done anything like this before?",
+        "How did you get started?",
+        "How did you feel when it was complete?",
+        "What made this time different than other times when you were not as successful?",
+        "What is your favorite thing about this experience?",
+        "What could you learn from this experience that applies to other situations?",
+        "What did you learn about yourself through this experience?",
+        "How can you keep this experience in mind in the future?"
+    };
+    private List<string> _prompts = new List<string>()
+    {
+        "Think of a time when you stood up for someone else.",
+        "Think of a time when you did something really difficult.",
+        "Think of a time when you helped someone in need.",
+        "Think of a time when you did something truly selfless"
+
+    };
     
     public ReflectionActivity(): base("ReflectionActivity", "This activity will help you reflect on times in your life when you have shown strength and resilience. This will help you recognize the power you have and how you can use it in other aspects of your life.")
     {
-            _prompts.Add("Think of a time when you stood up for someone else.");
-            _prompts.Add("Think of a time when you did something really difficult.");
-            _prompts.Add("Think of a time when you helped someone in need.");
-            _prompts.Add("Think of a time when you did something truly selfless");
-
-            _questions.Add("Why was this experience meaningful to you?");
-            _questions.Add("Have you ever done anything like this before?");
-            _questions.Add("How did you get started?");
-            _questions.Add("How did you feel when it was complete?");
-            _questions.Add("What made this time different than other times when you were not as successful?");
-            _questions.Add("What is your favorite thing about this experience?");
-            _questions.Add(" What could you learn from this experience that applies to other situations?");
-            _questions.Add("What did you learn about yourself through this experience?");
-            _questions.Add("How can you keep this experience in mind in the future?");
-
+            
     }
 
-    private string GetRandomPrompt()
-    {
-        Random rnd = new Random();
-        int randomNumber = rnd.Next(0, _prompts.Count());
-        return _prompts[randomNumber];
-    }
     private string GetRandomQuestion()
     {
-        Random rnd = new Random();
-        int randomNumber = rnd.Next(0, _questions.Count());
-        return _questions[randomNumber];
+        if (_questions.Count == 0)
+        {
+            _questions = new List<string>
+            {
+                "Why was this experience meaningful to you?",
+                "Have you ever done anything like this before?",
+                "How did you get started?",
+                "How did you feel when it was complete?",
+                "What made this time different than other times when you were not as successful?",
+                "What is your favorite thing about this experience?",
+                "What could you learn from this experience that applies to other situations?",
+                "What did you learn about yourself through this experience?",
+                "How can you keep this experience in mind in the future?"
+            };
+        }
+
+        Random rand = new Random();
+        int index = rand.Next(_questions.Count);
+        string question = _questions[index];
+        _questions.RemoveAt(index);
+        return question;
+    }
+    private string GetRandomPrompt()
+    {
+        if (_prompts.Count == 0)
+        {
+            _prompts = new List<string>
+            {
+                "Who are people that you appreciate?",
+                "What are personal strengths of yours?",
+                "Who are people that you have helped this week?",
+                "When have you felt the Holy Ghost this month?",
+                "Who are some of your personal heroes?"
+            };
+        }
+
+        Random rand = new Random();
+        int index = rand.Next(_prompts.Count);
+        string prompt = _prompts[index];
+        _prompts.RemoveAt(index);
+        return prompt;
     }
     private void DisplayPrompt()
     {
@@ -72,13 +108,15 @@ public class ReflectionActivity : Activity
         
         DateTime startTime = DateTime.Now;
         DateTime futureTime = startTime.AddSeconds(_duration);
-        while (futureTime < startTime)
+        DateTime currentTime = DateTime.Now;
+        while (currentTime < futureTime)
         {   
             
             DisplayQuestions();
-
+            currentTime = DateTime.Now;
         }
         DisplayEndingMessage();
+        Thread.Sleep(3000);
 
     }
 }
