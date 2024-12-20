@@ -4,6 +4,7 @@ public class ChecklistGoal : Goal
     public int Bonus { get; set; }
     public int AmountCompleted { get; set; }
 
+
     public ChecklistGoal(string name, string description, int points, int target, int bonus)
     {
         Name = name;
@@ -13,9 +14,9 @@ public class ChecklistGoal : Goal
         Bonus = bonus;
         AmountCompleted = 0;
     }
-
     public override string GetStringRepresentation()
     {
         return $"ChecklistGoal:{Name},{Description},{Points},{Target},{Bonus},{AmountCompleted}";
     }
+    
 }

@@ -6,15 +6,12 @@ public class EternalGoal : Goal
         Description = description;
         Points = points;
     }
-
     public override string GetStringRepresentation()
     {
         return $"EternalGoal:{Name},{Description},{Points}";
     }
-
     public override bool IsComplete()
     {
-        
         return false;
     }
 }
